@@ -1,0 +1,2 @@
+# cmake_tests
+my_cmake_tests_and_notes
